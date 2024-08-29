@@ -20,3 +20,5 @@ export const robots = () => {
         sitemap: 'https://www.example.com/sitemap.xml'
     }
 }
+
+export default robots;
