@@ -25,12 +25,12 @@ const AboutContainer: React.FC = () => {
                 <li className="mb-2">Competitive prices</li>
                 <li className="mb-2">Fast and secure shipping</li>
                 <li className="mb-2">24/7 customer support</li>
-                <li>100% satisfaction guarantee</li>
+                <li>satisfaction guarantee</li>
             </ul>
 
             <div className="bg-blue-100 border-l-4 border-blue-500 p-4 mt-8">
                 <p className="text-blue-700">
-                    At Henry Shops, we don't just sell technology, we create experiences. Join our community of tech enthusiasts and discover the latest in electronic innovation.
+                    At Henry Shops, we create experiences. Join our community of tech enthusiasts and discover the latest in electronic innovation.
                 </p>
             </div>
 
